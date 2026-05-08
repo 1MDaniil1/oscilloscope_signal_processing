@@ -4,3 +4,6 @@ python C:\stuff\пики_с_осциллографа\oscilloscope_stream.py --ho
 
 ### режим дебага 
 python C:\stuff\пики_с_осциллографа\oscilloscope_stream.py --gui --dummy True --dummy-csv live_signal.csv --baseline edges --interval 1 --threshold 1.5 --polarity positive --min-distance-samples 5
+
+### В настройках "сеть и мобильные устройства/Ethernet"
+![alt text](image.png)
