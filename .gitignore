@@ -1,3 +1,4 @@
 __pycache__/
 SSPD_Signal0.csv
 stream_latest.csv
+*.csv
