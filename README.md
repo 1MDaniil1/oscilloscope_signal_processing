@@ -1,4 +1,4 @@
-
+python C:\stuff\пики_с_осциллографа\oscilloscope_stream.py --host "TCPIP::192.168.1.4::INSTR" --backend visa --frames live --run-stop-read --acquire-seconds 1 --waveform-mode RAW --waveform-points-mode RAW --timeout 180 --channel CHAN2 --baseline edges --threshold 0.1 --polarity positive --detection-mode threshold-width --min-peak-width-ns 5 --max-peak-width-ns 200
 
 
  python C:\stuff\пики_с_осциллографа\oscilloscope_stream.py --host "TCPIP::192.168.1.4::INSTR" --backend visa --frames 1 --waveform-mode RAW --waveform-points-mode RAW --timeout 60 --channel CHAN2 --baseline edges --threshold 0.15 --polarity positive --detection-mode 
